@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.0.0](https://github.com/[object]/compare/1.0.0...2.0.0) (2025-06-21)
+
+
+### ✨ Features
+
+
+* d.txt (6ed52c3)
+
+
+### 🐛 Bug Fixes
+
+
+* **blabal:** blabal (e7096eb)
+
+
 ## [1.0.0](https://github.com/[object]/compare/0.3.0...1.0.0) (2025-06-16)
 
 
